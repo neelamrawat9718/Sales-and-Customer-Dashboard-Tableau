@@ -10,6 +10,8 @@ The purpose of the sales and customer dashboard is to provide an integrated over
 
 
 
+
+
 **Key Requirements of Sales**:
 
 <li>KPI Overview</li> 
@@ -37,6 +39,9 @@ Display the average weekly values.
 
 
 
+
+
+
 **Key Requirements of Customer**
 
 <li>KPI Overview</li>
@@ -52,6 +57,23 @@ Represent the distribution of customers based on the number of orders they have 
 <li>Top 10 Customers By Profit</li>
 Present the top 10 customers who have generated the highest profits for the company.
 Show additional information like rank, number of orders, current sales, current profit and the last order date.
+
+
+<h1><a name='dashboard'>Dashboard</a></h1>
+![image](https://github.com/user-attachments/assets/13dd8140-9c85-4b52-9740-0c7527e56fe4)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
