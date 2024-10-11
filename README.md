@@ -60,7 +60,15 @@ Show additional information like rank, number of orders, current sales, current 
 
 
 <h1><a name='dashboard'>Dashboard</a></h1>
-![image](https://github.com/user-attachments/assets/13dd8140-9c85-4b52-9740-0c7527e56fe4)
+
+![image](https://github.com/user-attachments/assets/72fa4c06-cb26-4f5d-aeff-b3ba0b089910)
+
+![image](https://github.com/user-attachments/assets/f5f58b96-a93f-47da-a98e-3ae35d511408)
+
+<h1><a name="visualizationtools">Visualization Tools</a></h1>
+<ul><li>Tool used: Tableau</li>
+Datasets - [Dataset](https://www.datawithbaraa.com/tableau/tableau-thank-you/)
+
 
 
 
