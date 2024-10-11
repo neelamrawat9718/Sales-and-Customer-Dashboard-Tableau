@@ -61,7 +61,7 @@ Show additional information like rank, number of orders, current sales, current 
 
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used: Tableau</li>
-Link of Dashboards : [Link Text](https://public.tableau.com/app/profile/neelam.rawat/viz/SalesandCustomerDashboards_17284848923280/SalesDashboard)
+Link of Dashboards : https://public.tableau.com/app/profile/neelam.rawat/viz/SalesandCustomerDashboards_17284848923280/SalesDashboard
 
 <h1><a name="conclusion">Conclusion</a></h1>
 The sales dashboard provides valuable insights into the company's overall sales performance, identifies key trends and patterns, and highlights areas for improvement. By analyzing this data, businesses can make informed decisions to optimize sales strategies and drive growth.
