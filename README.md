@@ -67,7 +67,12 @@ Show additional information like rank, number of orders, current sales, current 
 
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used: Tableau</li>
-Datasets - [Dataset](https://www.datawithbaraa.com/tableau/tableau-thank-you/)
+
+<h1><a name="conclusion">Conclusion</a></h1>
+The sales dashboard provides valuable insights into the company's overall sales performance, identifies key trends and patterns, and highlights areas for improvement. By analyzing this data, businesses can make informed decisions to optimize sales strategies and drive growth.
+The customer dashboard provides valuable insights into the company's customer base and performance. The year-over-year growth in customers, sales, and orders indicates a positive trajectory. The identification of top-performing customers can inform targeted marketing and sales efforts.
+
+
 
 
 
