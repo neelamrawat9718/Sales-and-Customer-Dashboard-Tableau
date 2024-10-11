@@ -33,6 +33,10 @@ Display the average weekly values.
 
 
 
+
+
+
+
 **Key Requirements of Customer**
 
 <li>KPI Overview</li>
